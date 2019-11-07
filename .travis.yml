@@ -17,3 +17,14 @@ branches:
 
 script:
   - bundle exec jekyll build -d _site/wax
+
+deploy:
+  - provider: s3
+    access_key_id: $AWS_ID
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: # add your prod bucket, e.g., cul-s3-dlst-travis-studio-prod
+    region: us-west-2
+    skip_cleanup: true
+    local_dir: _site
+    on:
+      branch: master
