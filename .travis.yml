@@ -17,4 +17,3 @@ branches:
 
 script:
   - bundle exec jekyll build -d _site/wax
-  - bundle exec rake wax:test
