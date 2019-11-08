@@ -16,7 +16,7 @@ branches:
     - static
 
 script:
-  - bundle exec jekyll build -d _site/wax
+  - bundle exec jekyll build -d _site
 
 deploy:
   - provider: s3
