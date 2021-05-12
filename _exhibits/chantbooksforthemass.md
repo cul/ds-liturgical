@@ -13,7 +13,9 @@ Collections](https://dlc.library.columbia.edu/catalog/cul:jh9w0vt6bg).
 
 Processions took place before the principal Mass every Sunday and on important feasts, although other processions could occur at the end of Lauds and Vespers of the Office, especially during the octaves of Christmas and Easter, or to a particular altar on a saint's feast. Usages with regard to processions varied from place to place. Processions on Palm Sunday, for instance, were unique to each church and could be particularly elaborate, often involving movement around a city or town to reenact Christ's entry into Jerusalem. Directions for some processions can be found in a missal; the most extensive information appears in an ordinal. The chants for a procession were proper to the feast.
 
-A processional contains the chants sung during the processions on certain important feasts of the church year, including Christmas, the Purification of the Virgin Mary, or Candlemas (February 2), Ash Wednesday, the Adoration of the Cross on Good Friday, the major litanies (April 25) and Rogations (during three days before the feast of the Ascension). Processionals began as small booklets of chants in the tenth and eleventh centuries, but gradually developed into separate books, while retaining their small size for portability.
+A processional contains the chants sung during the processions on certain important feasts of the church year, including Christmas, the Purification of the Virgin Mary, or Candlemas (February 2), Ash Wednesday, the Adoration of the Cross on Good Friday, the major litanies (April 25) and Rogations (during three days before the feast of the Ascension). Processionals began as small booklets of chants in the tenth and eleventh centuries, but gradually developed into separate books, while retaining their small size for portability. A processional copied in 1351 for the Clarissan (female Franciscan) nuns of Brussels is available [here](https://dlc.library.columbia.edu/catalog/cul:9zw3r22b3j). The
+chants in the manuscripts are inventoried in the [Cantus
+Database](https://cantus.uwaterloo.ca/source/604043).
 
 ---
 
